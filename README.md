@@ -19,7 +19,10 @@ This is a Java console application that calculates:
 - Loops
 - If-Else Conditions
 
- 
+ #Live Demo
 
+Click here to run the project online:
+[https://your-copied-link
+](https://onlinegdb.com/eUxiboazp)
 ## Author
 Hemalatha
