@@ -19,5 +19,8 @@ This is a Java console application that calculates:
 - Loops
 - If-Else Conditions
 
+Live Project
+https://24a31a4399.github.io/smart-job-prep-tracker/
+
 ## Author
 Hemalatha
